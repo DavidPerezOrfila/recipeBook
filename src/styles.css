@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+/* Fixes dropdown menus placed on the right side */
+
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
