@@ -25,7 +25,7 @@
     "core-js": "^2.6.9",
     "fstream": "^1.0.12",
     "hoek": "^6.1.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.14",
     "lodash.mergewith": "^4.6.2",
     "popper.js": "^1.14.7",
